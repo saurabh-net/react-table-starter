@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* .table-container {
+  overflow: auto;
+  max-height: 80vh;}
+
+th {
+  position: sticky;
+  top: 0;
+  background: white;
+} */

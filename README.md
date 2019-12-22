@@ -1,4 +1,4 @@
-This is a starter kit based on the popular react-table project hosted at https://github.com/tannerlinsley/react-table.
+This is a starter kit based on the popular **react-table** project hosted at https://github.com/tannerlinsley/react-table.
 
 There are simple examples of **client-side pagination**, **sorting**, and multiple kinds of **filters**. It is also integrated with **Bootstrap** and **React-Select**.
 
